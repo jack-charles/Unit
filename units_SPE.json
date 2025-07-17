@@ -1,0 +1,23 @@
+{
+    "system_name": "SPE",
+    "angle": "degree",
+    "area": "ft2",
+    "capacity": "bbl/ft",
+    "concentration": "pptg",
+    "density_gas": "gas sg",
+    "density_liquid": "ppg",
+    "density_solid": "ppg",
+    "diameter": "in",
+    "force": "lbf",
+    "length": "ft",
+    "mass": "lbm",
+    "mass_gradient": "lbm/ft",
+    "mass_rate": "lbm/min",
+    "permeability": "mD",
+    "pressure": "psi",
+    "pressure_gradient": "psi/ft",
+    "temperature": "F",
+    "velocity": "ft/s",
+    "volume": "bbl",
+    "volumetric_rate": "bbl/min"
+}

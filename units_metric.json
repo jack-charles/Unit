@@ -1,0 +1,23 @@
+{
+    "system_name": "metric",
+    "angle": "degree",
+    "area": "m2",
+    "capacity": "bbl/ft",
+    "concentration": "ppm",
+    "density_gas": "gas sg",
+    "density_liquid": "kg/m3",
+    "density_solid": "kg/m3",
+    "diameter": "cm",
+    "force": "kN",
+    "length": "m",
+    "mass": "kg",
+    "mass_gradient": "kg/m",
+    "mass_rate": "kg/min",
+    "permeability": "mD",
+    "pressure": "kPa",
+    "pressure_gradient": "kPa/m",
+    "temperature": "C",
+    "velocity": "m/s",
+    "volume": "m3",
+    "volumetric_rate": "m3/min"
+}
